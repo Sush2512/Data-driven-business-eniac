@@ -5,7 +5,7 @@ This project involves a thorough data analysis to evaluate the potential market 
 
 ## Languages and Tools Used
 - **Languages**: SQL
-- **Tools**: MySQL (RDBMS), Tableau (Visualization), Notion (Project Management), Google Slides (Presentation)
+- **Tools**: MySQL (RDBMS), Tableau (Visualization),Google Slides (Presentation)
 
 ## Key Learnings
 - Developed skills in data extraction and querying using SQL.
